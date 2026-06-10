@@ -16,3 +16,9 @@ A CSV dataset containing:
 - Book Title
 - Price
 - Availability
+## Task 3: Data Visualization
+
+- Created visualizations using Matplotlib
+- Converted raw data into meaningful charts
+- Presented insights through graphical representation
+- Improved understanding of data storytelling
