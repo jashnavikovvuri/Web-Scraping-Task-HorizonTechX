@@ -22,3 +22,10 @@ A CSV dataset containing:
 - Converted raw data into meaningful charts
 - Presented insights through graphical representation
 - Improved understanding of data storytelling
+## Task 4: Sentiment Analysis
+
+- Performed sentiment classification on text reviews
+- Classified sentiments as Positive, Negative, and Neutral
+- Applied Natural Language Processing (NLP)
+- Visualized sentiment distribution
+- Generated insights from text data
